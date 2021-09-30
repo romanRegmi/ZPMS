@@ -1,0 +1,8 @@
+Name of the Zoo: Central Zoo
+Date of Establishment: 1932
+Address: Jawalakhel Rd, Lalitpur 44600
+Opening Time: 10AM
+Closing Time: 5PM
+Phone : 01-5528323
+Notable animals: Asiatic Elephant, Bengal Tiger
+
